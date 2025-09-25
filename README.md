@@ -13,6 +13,8 @@
   <a href="mailto:tomasmorais2017@gmail.com?subject=Olá"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;
 </p>
 
+<h3 align="center"><a href="https://github.com/TM-1-3/TM-1-3/blob/main/CV-ENG.pdf">CV Online</a></h3>
+
 ### 🎓 Estudante de Engenharia Informática | Aprendizagem Contínua | Detalhista & Motivado
 
 ---
