@@ -55,6 +55,7 @@
 | Engenharia de Software | [LearnVironment](https://github.com/TM-1-3/LearnVironment) | LearnVironment é uma App Móvel de Aprendizagem sobre Ambientalismo e Sustentabilidade | 19,9 |
 | Laboratório de Computadores | [Wombat Maze](https://github.com/TM-1-3/WombatMaze) | Wombat Maze é um Jogo de Labirinto Implementado com Drivers de I/O por Interrupção | 18,0 |
 | Linguagens e Tecnologias Web | [Learn2Day](https://github.com/TM-1-3/Learn2Day) | Learn2Day é um Website de Tutoria Académica | 15,1 |
+| Laboratório de Bases de Dados e Aplicações Web |[PlayNation](https://github.com/TM-1-3/PlayNation)  | PlayNation é uma Rede Social para Entusiastas de Desporto| 17,6   |
 
 ---
 
